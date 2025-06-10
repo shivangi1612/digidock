@@ -23,9 +23,9 @@ Easy Access & Management: View, download, and delete uploaded files from a clean
 
 ## 📸 Preview
 
-![Screenshot 1](/1.png)
-![Screenshot 2](/2.png)
-![Screenshot 3](/3.png)
+![Screenshot 1](/frontent/public/1.png)
+![Screenshot 2](/frontent/public/2.png)
+![Screenshot 3](/frontend/public/3.png)
 
 ---
 
