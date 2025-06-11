@@ -1,4 +1,4 @@
-# 🗂️ DigiDock : Document Storage Vault
+# 🗂️ DigiDock: Document Storage Vault
 
 A modern, responsive React application that allows users to upload documents to the **InterPlanetary File System (IPFS)** and manage them securely — using **MetaMask** for Web3 identity and authentication.
 
