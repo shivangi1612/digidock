@@ -15,7 +15,7 @@ import {
 } from 'lucide-react';
 import './index.css'
 
-const SERVER_URL = 'http://localhost:4000';
+const SERVER_URL = 'VITE_BACKEND_URL';
 
 function App() {
   const [wallet, setWallet] = useState(null);
