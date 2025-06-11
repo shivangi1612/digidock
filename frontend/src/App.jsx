@@ -15,7 +15,7 @@ import {
 } from 'lucide-react';
 import './index.css'
 
-const SERVER_URL = 'VITE_BACKEND_URL';
+const SERVER_URL = 'https://digidock.onrender.com';
 
 function App() {
   const [wallet, setWallet] = useState(null);
